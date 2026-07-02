@@ -2,7 +2,7 @@
 
 Use the Samsung Flip7 cover display as a touchpad for Samsung DeX — no ADB required, uses Shizuku instead.
 
-## Requirements
+## Requirements  
 
 - Samsung Galaxy Z Flip7 (or similar with a cover display)
 - [Shizuku](https://shizuku.rikka.app/) installed and running
